@@ -1,0 +1,175 @@
+v1.1
+-Various music fixes with regards to looping and lowering volume
+-Changed HQ Battle theme from Black Tar (XCX) to Cipher Peon Battle (Pokemon XD)
+-Changed several estate textures including paintings, wallpaper, flooring, furniture, and rugs
+-Recolored some gags, both for in-battle and on the gag selection screens (magnets, squirt gun, bike horn, juggling cubes)
+-Retextured some elements like grass and skies in some areas
+-Changed background for toon select & loading screens
+
+v1.2
+-Changed several gag textures, both for in-battle and on gag selection screen (Fog, lipstick, pixie dust, squirting flower, quicksand, trapdoor, hypno goggles)
+-Changed Factory music from Mischief Makers to Cipher Lab (Pokemon XD)
+-Added a song for the "VP flee" part of the VP battle
+-Changed colors on some Factory textures
+-Added "signatures" onto the posters of Chick and Chelsie in the HQs
+-A few estate texture changes
+-Changed backgrounds for toon select & loading screens - I finally found ones I like!!
+-Changed the painting often seen in street buildings to a (really old) pic of me at the dunes
+-Adjusted some music, fixing volume and shortened overall length (not sure if large filesize contributes to lag?)
+-Changed building battle music from Simulation to Battle SIM (Pokemon XD)
+-Edited some cog attacks (red tape, market crash, ect)
+-Messed up a rug
+-Changed DA Office music from Speed Run (SMG2) to ONBS Building (Pokemon XD)
+
+
+v1.3
+-Various minor estate texture changes
+-The Dizzy Dreidel now features four characters from my novel
+-Changed some estate wallpaper and flooring
+-Various texture changes to Sell HQ
+-Various texture changes to Cash HQ
+-Changed things like skies and grounds in some areas
+-Recolored a few gags and cog attacks, though not sure if they go to what I wanted
+-Changed treasures in TTC and DG
+-Changed textures in buildings
+-In the Toon HQs, the hole in the wall was changed from the gorilla to Wolf Alex
+
+v1.4
+-Changed stomper textures
+-Changed street building textures in TTC, DD, and DG
+-Fixed TTC grass
+-Changed the pattern on the umbrellas in DG playground
+-Pet Shop pictures now feature photos of my various pets over the years
+-Changed Neptune statue to my character FlamDawg
+-Changed sidewalks in TTC and DD
+-Changed TTC plaza tiles
+-Changed a statue often seen in TTC
+-Tons of edits to the Factories including flooring and the fire area
+-Changed Olaf in the Brrrgh to a less disgusting snowman
+-Two of my novel characters can be seen frozen in the ice around Brrrgh
+-The Doodle escape holes in the DG pet shop are now chickens
+-Made the Patrick treasure look nicer
+-Changed a few textures within buildings
+-Changed the green ink in the Mints
+-Shticker Book map was replaced with an HD remake (credit to sillypeppymacspeed7 on Reddit)
+-Shticker Book has been recolored
+-New Excited and Confused Doodle icons
+
+v2.0
+-Edited title screen logo
+-Edited title screen icon. This can also be seen on the back of the SOS cards!
+-Beefy Mood banner no longer is seen at the very start but can still be seen on the billboard in TTC. It was replaced with the loading screen background
+-Added new battle music for each playground [TTC battle music DOES NOT WORK in Welcome Valley]
+-Changed music for parties
+-Changed music for Cashbot HQ lobby
+-Fixed TTC street music's loop
+-Increased volume for DG building and MM street themes
+-Changed clock on first floor buildings to art of Nat
+-Changed windows on last floor of buildings to portrait of Nat
+-Estate painting of me and a chicken has been changed to a picture of Chick
+-Doodle icons were removed as I couldn't get them to look nice
+-Changed Lawbot HQ music
+-Changed the suggestive estate paintings
+
+v2.1
+-Retextured some cogs
+-Retextured some gags
+-Retextured some cog attacks
+-Zack's head replaces the duck on the car in DDL
+-Changed DDL treasure to Awakening sprite from Pokemon
+-The various "playground icons" have been changed to reflect my novel characters
+-The playground signs have been changed for the same reason
+-Updated cannon texture (credit to The_Dog_Sketch on Reddit)
+-Changed the items in the estate cabinets
+-Paintings in CEO battle have been changed
+-Changed MM treasure to fire mixtape
+-Changed the sun seen in the estate & other areas (and put Zack's head on it ofc)
+-Changed gag shop sign
+-Retextured some buildings in DD
+-Retextured some things in cog buildings (first floor wall + final floor steps)
+-Changed a ton of stuff in Sellbot HQ (walls, floors, crates, panels, windows...)
+-Fixed Doodle icons for good
+-Changed Estate treasure
+-Changed some Shticker Book icons (cog gallery icon & district icon)
+-Changed the gear shown on the "defeat x cogs" tasks
+-Changed flooring inside Toon HQs
+-Changed the railing inside Toon HQs
+-Retextured the VP
+-Returned the big head in Sell HQ factory lobby to normal (no longer shiny metal)
+-Changed the tree background in DG
+-Changed DG hedge color to match background trees
+-Changed the friends button and replaced the cat & dog with Nathan & Sarah
+-Made the 1$ bill more distinguishable from the 10$ bill
+-Retextured a bunch of stuff in mints and CFO battle
+-Changed mint music
+-Fixed DG playground music's loop
+-Changed music for the cog round in boss battles (also plays in Welcome Valley)
+-Changed picnic blanket color
+-Changed wood color of bed & the bricks in DDL playground
+-Changed some building textures in the Brrrgh
+-Changed some ground textures on the TTC streets
+-Changed the indigestion meme in the HQ to a list of facilities and promotion points (credit to CoolAdrianna on Reddit)
+-Changed "green ink" in mints to blue water
+-Plastered Zack's face on the Loco Locomotive Train
+-The dunk tank target now has Matt's face on it
+-Changed the CFO door back to normal
+-Changed an estate painting
+-Fixed the large rug so it looks somewhat better
+-Changed the estate dirt path
+-Changed the DG street path to dirt
+
+v2.2
+-Changed CFO crane room wall to the wall in the first mint room
+-Changed some of the catalog series images
+-The in-game Shticker Book now matches the icon! Couldn't find the file, it was quite hidden
+-Changed background image for the Toonfest pie stand
+-Changed some flooring and walls inside the Sellbot factory
+-The monochrome bricks in mints are now vertically mirrored
+-Changed gag shop wall
+-Changed gag barrels
+-Made the Natattack poster higher quality
+-Made the promotion poster higher quality
+-Switched the sidewalk textures for MML and DDL
+-Several buttons were replaced with the higher quality ones from the "winter" textures
+-The big weight is now recolored on all sides as opposed to just the front
+-Remade the fireworks shirt
+-Replaced the Flunky on the Relaxed Victory Shirt with Zack Hakton
+-The Doodle shirt is now a shirt inspired by one of my friends (will be fixed later)
+-Changed the Brrrgh's street texture
+-The paint seen in facilities is now multicolored
+-Edited the jack-in-the-box in DDL
+-Remade the winter shirts (light blue snowflake & light blue snowman)
+
+v2.3
+-Changed some estate paintings to art of my novel characters
+-Changed a painting in Lawbot HQ
+-Changed the "mixtape" on the shelves in Sellbot HQ to a DVD
+-Enhanced the Minnie & Mickey painting
+-Enhanced the Toontown Central sign
+-Updated the Bossbot symbol on the Flunk Trunk
+-Changed the color of the gag shop purchase menu
+-Changed the color of some walls + machines in Sellbot HQ
+-Enhanced the stomper textures
+-Changed Mingler face
+-Changed the lips seen when using the Lipstick gag
+-Changed the spirals seen when using the Hypno Goggles
+-Changed the mouth seen when a Cog uses the Razzle Dazzle attack
+-Changed the Presentation gag so the icon on the gag screen matches the actual gag
+-Changed the other side of the cube in DDL
+-Made the metal floor in the VP battle higher quality
+-Changed the CD in the cabinet furniture item to the Zack's Hacks DVD seen in Sellbot HQ
+-Changed one of the small rugs
+-Put Zack's head on the cowboy lamp
+-Changed the Aoogah and Bike Horn to grey
+-Replaced the circuit boards in Sellbot HQ with Zoasters, a deadly toaster invented by Zack Hakton
+
+
+
+Known issues:
+-Likely issues with volume and looping for music in areas I don't frequent (Law + Boss HQ stuff, for example)
+-Some cog attacks and gags may not be fully textured. (i.e. colored on gag screen but not in battle)
+-Party music has not been checked.
+-The opposite side of the CFO door is messed up for some reason. I can't find the texture that's supposedly on it.
+-Lawbot HQ and Bossbot HQ are untouched texture-wise and will have their textures from Happy Days. As I have not worked my toons through these HQs yet, I don't know what I should change.
+
+Once Toontown Offline gets a Windows 7 bug fix, I will be able to test everything and change things in these areas.

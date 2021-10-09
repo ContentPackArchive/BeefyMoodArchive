@@ -1,0 +1,26 @@
+Hiya! Thanks for downloading my content pack! Getting this pack to work with Toontown Rewritten is super easy. Just follow these steps:
+
+
+WINDOWS
+
+1) Go into your computer's program files
+2) Find the folder called "Toontown Rewritten" (EX: Computer > C: Drive > Program Files (x86) > Toontown Rewritten)
+3) Drag the entire "resources" folder included with the pack and put it in the Toontown Rewritten folder. If you already have a resources folder, simply overwrite it with these new files
+4) Load TTR and enjoy! The game will load the files in the resources folder instead of the normal files, giving you custom music and textures!
+
+
+MAC
+
+1) Open Finder.
+2) On the menu, click "Go" then select "Go to Folder"
+3) Type or paste this in: ~/Library/Application Support/
+4) Find the TTR folder
+5) Drag in the "resources" folder into the TTR folder
+6) Load TTR
+
+
+If you ever want to remove the textures, simply remove the resources folder.
+
+If you're running a different version of Toontown, simply find the resources folder for that game. Some versions even allow you to load a content pack from the menu.
+
+If you have any questions, feel free to message me!
